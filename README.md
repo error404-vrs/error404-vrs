@@ -5,7 +5,7 @@
 - 👀 Discord tool dev
 - 👀 2024 404
 - 👀 Discord tool dev for you
-- 👀 Not dangerous but for le grand Z lol
+
 <!---
 error404-vrs/error404-vrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
